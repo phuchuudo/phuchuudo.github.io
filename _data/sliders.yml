@@ -61,24 +61,22 @@
   bullets: true
   captions: true
   images:
-    - src: /img/sinhnhat-5-tuoi/1.jpg
-      title: Image 1
     - src: /img/sinhnhat-5-tuoi/2.jpg
-      title: Image 2
+      title: Image 1
     - src: /img/sinhnhat-5-tuoi/3.jpg
-      title: Image 3
+      title: Image 2
     - src: /img/sinhnhat-5-tuoi/4.jpg
-      title: Image 4
+      title: Image 3
     - src: /img/sinhnhat-5-tuoi/5.jpg
-      title: Image 5
+      title: Image 4
     - src: /img/sinhnhat-5-tuoi/6.jpg
-      title: Image 6
+      title: Image 5
     - src: /img/sinhnhat-5-tuoi/7.jpg
-      title: Image 7
+      title: Image 6
     - src: /img/sinhnhat-5-tuoi/8.jpg
-      title: Image 8
+      title: Image 7
     - src: /img/sinhnhat-5-tuoi/9.jpg
-      title: Image 9
+      title: Image 8
   settings:
     height: "'auto'"
     effect: "'fade'"
