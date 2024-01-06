@@ -3,8 +3,8 @@ layout: page
 title: Photo collections
 permalink: /photo-collections/
 image_sliders:
-  - slider1
-  - slider2
+  - collection1
+  - collection2
 ---
 
 ## Collection 01
