@@ -1,6 +1,6 @@
 # Config settings
 title: Jekyll Ideal Image Slider Include Demo
-baseurl: "/jekyll-ideal-image-slider-include"
+baseurl: "/"
 
 # Build settings
 markdown: kramdown
