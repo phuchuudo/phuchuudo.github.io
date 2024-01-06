@@ -13,6 +13,4 @@ image_sliders:
 
 ## Collection 02
 
-same images, different settings.
-
 {% include slider.html selector="collection2" %}
