@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This page hosts Phuc Huu Do's photos collection.
+This page hosts the photo collection of Phuc Huu Do.
