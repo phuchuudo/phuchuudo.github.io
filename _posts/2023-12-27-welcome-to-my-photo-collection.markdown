@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Phuc Huu Do’s site"
+title:  "Welcome to Phuc Huu’s site"
 date:   2023-12-27 12:27:00
 categories: collections
 ---
