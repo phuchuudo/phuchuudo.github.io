@@ -5,4 +5,4 @@ date:   2023-12-27 12:27:00
 categories: PhucHuuDo
 ---
 
-Welcome to my photo collection.
+Welcome to [my photo collection](https://phuchuudo.github.io/photo-collections/).
