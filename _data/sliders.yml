@@ -87,26 +87,22 @@
   bullets: true
   captions: true
   images:
-    - src: /img/album-02/1.JPG
+    - src: /img/album-03/1.jpg
       title: Image 1
-    - src: /img/album-02/2.JPG
+    - src: /img/album-03/2.jpg
       title: Image 2
-    - src: /img/album-02/3.JPG
+    - src: /img/album-03/3.jpg
       title: Image 3
-    - src: /img/album-02/4.JPG
+    - src: /img/album-03/4.jpg
       title: Image 4
-    - src: /img/album-02/5.JPG
+    - src: /img/album-03/5.jpg
       title: Image 5
-    - src: /img/album-02/6.JPG
+    - src: /img/album-03/6.jpg
       title: Image 6
-    - src: /img/album-02/7.JPG
+    - src: /img/album-03/7.jpg
       title: Image 7
-    - src: /img/album-02/8.JPG
+    - src: /img/album-03/8.jpg
       title: Image 8
-    - src: /img/album-02/9.JPG
-      title: Image 9
-    - src: /img/album-02/10.JPG
-      title: Image 10
   settings:
     height: "'auto'"
     effect: "'fade'"
