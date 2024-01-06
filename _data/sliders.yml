@@ -57,8 +57,6 @@
     height: "'auto'"
     disableNav: true
 
-
-
 - selector: collection1
   bullets: true
   captions: true
