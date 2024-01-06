@@ -9,10 +9,10 @@ image_sliders:
 
 ## Collection 01
 
-{% include slider.html selector="slider1" %}
+{% include slider.html selector="collection1" %}
 
 ## Collection 02
 
 same images, different settings.
 
-{% include slider.html selector="slider2" %}
+{% include slider.html selector="collection2" %}
