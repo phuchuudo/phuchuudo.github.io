@@ -7,11 +7,11 @@ image_sliders:
   - slider2
 ---
 
-## slider 1
+## Collection 01
 
 {% include slider.html selector="slider1" %}
 
-## slider 2
+## Collection 02
 
 same images, different settings.
 
